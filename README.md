@@ -39,9 +39,17 @@ Space Explorer is a catch-and-avoid arcade game. You pilot a rocketship along th
 
 This project was completed as part of **CS50x: Introduction to Computer Science**, offered by **Harvard University**. Problem Set 0 introduces fundamental programming concepts — variables, conditionals, loops, and events — using Scratch's visual block-based environment before transitioning to text-based languages later in the course.
 
+
+**Links**
+
+**Live demo:** https://scratch.mit.edu/projects/1351802666/
+
+**GitHub Repository:** https://github.com/chakshaya77/Space-Explorer---Scratch
+
+
 ## Author
 
-Built by Kutty as part of ongoing CS50x coursework.
+Built by Akshaya Chittimilla(AkkiKutty) as part of ongoing CS50x Coursework.
 
 ## Acknowledgements
 
